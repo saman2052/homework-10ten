@@ -12,14 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saman2052/Homework.10"
+    "url": "git+https://github.com/saman2052/homework-10ten"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saman2052/Homework.10/issues"
+    "url": "https://github.com/saman2052/homework-10ten/issues"
   },
-  "homepage": "https://github.com/saman2052/Homework.10/blob/main/README.md",
+  "homepage": "https://github.com/saman2052/homework-10ten/blob/main/README.md",
+
   "dependencies": {
     "axios": "^0.19.1",
     "fs": "0.0.1-security",
